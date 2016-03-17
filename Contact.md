@@ -1,3 +1,4 @@
-<b>Contact info</b>b><br>
+<b>Contact info</b><br>
 my name is <i>Ake</i><br>
-mobile <i>0899979970</i>
+mobile <i>0899979970</i><br>
+address <i>Bangkok</i>
